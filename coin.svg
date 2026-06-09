@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" id="coin">
+  <circle cx="24" cy="24" r="20" fill="#F59E0B" stroke="#D97706" stroke-width="2"/>
+  <circle cx="24" cy="24" r="15" fill="#FCD34D" stroke="#F59E0B" stroke-width="1"/>
+  <text x="24" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#92400E">₽</text>
+</svg>

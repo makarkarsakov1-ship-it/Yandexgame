@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect x="4" y="28" width="8" height="16" fill="#64748B" stroke="#475569" stroke-width="1.5"/>
+  <rect x="14" y="20" width="10" height="24" fill="#94A3B8" stroke="#475569" stroke-width="1.5"/>
+  <rect x="26" y="24" width="8" height="20" fill="#64748B" stroke="#475569" stroke-width="1.5"/>
+  <rect x="36" y="30" width="8" height="14" fill="#94A3B8" stroke="#475569" stroke-width="1.5"/>
+  <!-- Windows -->
+  <rect x="6" y="30" width="2" height="2" fill="#FDE68A"/>
+  <rect x="10" y="30" width="2" height="2" fill="#FDE68A"/>
+  <rect x="16" y="22" width="2" height="2" fill="#FDE68A"/>
+  <rect x="20" y="22" width="2" height="2" fill="#FDE68A"/>
+  <rect x="16" y="27" width="2" height="2" fill="#FDE68A"/>
+  <rect x="20" y="27" width="2" height="2" fill="#FDE68A"/>
+  <rect x="28" y="26" width="2" height="2" fill="#FDE68A"/>
+  <rect x="32" y="26" width="2" height="2" fill="#FDE68A"/>
+  <rect x="38" y="32" width="2" height="2" fill="#FDE68A"/>
+  <!-- Ground -->
+  <rect x="2" y="43" width="44" height="3" rx="1" fill="#334155"/>
+</svg>

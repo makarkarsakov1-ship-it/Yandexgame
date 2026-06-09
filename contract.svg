@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect x="8" y="4" width="32" height="40" rx="3" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.5"/>
+  <rect x="12" y="12" width="24" height="2" rx="1" fill="#94A3B8"/>
+  <rect x="12" y="18" width="20" height="2" rx="1" fill="#CBD5E1"/>
+  <rect x="12" y="24" width="22" height="2" rx="1" fill="#CBD5E1"/>
+  <rect x="12" y="30" width="16" height="2" rx="1" fill="#CBD5E1"/>
+  <!-- Checkmark seal -->
+  <circle cx="36" cy="36" r="8" fill="#22C55E" stroke="#16A34A" stroke-width="1.5"/>
+  <path d="M32 36 L35 39 L40 33" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
